@@ -1,1 +1,1 @@
-# stroke_predictor
+Open Finalproject.ipynb
