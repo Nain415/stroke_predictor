@@ -6,7 +6,8 @@ Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-b
 <div align="center"> 
  
 
-[![Stroke Predictor In Action Video](https://yt-embed.herokuapp.com/embed?v=SedwoRrAiC4)](https://www.youtube.com/watch?v=SedwoRrAiC4 "Stroke Predictor In Action Video")
+https://user-images.githubusercontent.com/78244259/180664451-5c25fe04-e2bb-4810-a3c3-54264a52662f.mp4
 
+ 
 </div>
 
