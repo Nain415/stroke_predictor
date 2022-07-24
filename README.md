@@ -2,4 +2,4 @@
 
 
 
-Please open the Colab link to run the code.
+Please open the Google Colab link to run the code.
